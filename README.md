@@ -4,7 +4,9 @@ This is a Jupyter Notebook project that analyzes and predicts coffee bean qualit
 
 ## Usage and Requirements
 
-To view the project, no requirements are necessary and you can view the notebook [here](http://htmlpreview.github.io/?https://github.com/nickolaiposs/coffeebean-quality-prediction/blob/main/coffee_quality_prediction.html). To run the code, the [Anaconda](https://www.anaconda.com/) environment is recommended, and the .ipynb file can be opened with JupyterLab or Visual Studio Code with the Jupyter extension. 
+ - To view the project, no requirements are necessary and you can view the notebook [here](coffee_quality_prediction.ipynb). 
+ 
+ - To run the code, the [Anaconda](https://www.anaconda.com/) environment is recommended, and the .ipynb file can be opened with JupyterLab or Visual Studio Code with the Jupyter extension. 
 
 ## Credits
 
